@@ -1,0 +1,24 @@
+:root { --signal: #AAA0FF; }
+
+.folio {
+  border: 0;
+  border-left: 12px solid var(--signal);
+  color: var(--ink);
+  background: var(--paper);
+}
+
+.folio::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 64px;
+  height: 64px;
+  background: var(--ink);
+  clip-path: polygon(0 0, 100% 0, 100% 100%);
+}
+
+.folio .art-caption {
+  padding-top: 20px;
+  border-top: 1px solid var(--ink);
+}
