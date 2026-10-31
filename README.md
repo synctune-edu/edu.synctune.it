@@ -1,2 +1,12 @@
-# edu.synctune.it
-Synctune Edu website and project directory. Dependency-free static website.
+# Synctune Edu
+
+A single-page portfolio for [edu.synctune.it](https://edu.synctune.it).
+Plain HTML and CSS, with locally bundled brand assets and fonts.
+No JavaScript, dependencies, install command or build step.
+
+- [Preview and Pages deployment](docs/deployment.md)
+- [Content, project links and brand assets](docs/maintenance.md)
+
+Site source lives at the repository root. GitHub Actions packages and deploys
+site changes on `main`, with no install or build step. Configure Pages to use
+**GitHub Actions** first; see the deployment docs.

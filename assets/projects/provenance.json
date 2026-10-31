@@ -1,0 +1,30 @@
+[
+  {
+    "project": "Engineering Interviews",
+    "asset": "assets/projects/engineering-interviews.svg",
+    "sha256": "b8e64466796bee1cf48b4728efd114260ba8503e5ca34462018e86f2f4995dd2",
+    "license": "AGPL-3.0",
+    "repo": "mbianchidev/engineering-interviews",
+    "revision": "fa090d456636cd2aac57f04e17a97ced4e48d392",
+    "source": "app/icon.svg",
+    "notice": "assets/projects/licenses/engineering-interviews-LICENSE.txt"
+  },
+  {
+    "project": "Platform Engineering Roadmap",
+    "asset": "assets/projects/platform-engineering-roadmap.svg",
+    "sha256": "5258b6505be02b20573091562f4dff43c4cf1c5b142d27b9b3bf0afaf30d1ffb",
+    "license": "MIT",
+    "repo": "mbianchidev/platform-engineering-roadmap",
+    "revision": "6a5441a57ba59faac28c4816ceb1f4ead5cfd893",
+    "source": "public/favicon.svg",
+    "notice": "assets/projects/licenses/platform-engineering-roadmap-LICENSE.txt"
+  },
+  {
+    "project": "Go, get a job!",
+    "asset": "assets/projects/go-get-a-job.svg",
+    "sha256": "1f4564d3906c1555fb3377c9cc7d87cae5cff691a8936ddda630dddbbcc4aeca",
+    "license": "AGPL-3.0",
+    "source": "Synctune project artwork used by request",
+    "notice": "assets/projects/licenses/go-get-a-job-LICENSE.txt"
+  }
+]
