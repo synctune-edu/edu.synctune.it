@@ -57,6 +57,12 @@ page's privacy note if this behavior changes.
 
 ## Before publishing a change
 
+Describe what the learning and career projects do, without explaining branch
+focus or website independence. Use their verified project marks rather than
+branch-symbol or framework-icon placeholders. `assets/projects/provenance.json`
+records local artwork, original public source revisions, checksums and notices.
+Keep asset copies inside this repository.
+
 Preview narrow and wide screens. Check local assets, anchors, outbound
 destinations and keyboard focus. Open the privacy disclosure with the keyboard.
 Keep `CNAME`, canonical URLs, `robots.txt` and `sitemap.xml` consistent if the
